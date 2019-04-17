@@ -1,0 +1,6 @@
+D:\Projects\ChristmasTree\ChristmasTree\bin\Debug\ChristmasTree.exe.config
+D:\Projects\ChristmasTree\ChristmasTree\bin\Debug\ChristmasTree.exe
+D:\Projects\ChristmasTree\ChristmasTree\bin\Debug\ChristmasTree.pdb
+D:\Projects\ChristmasTree\ChristmasTree\obj\Debug\ChristmasTree.csprojResolveAssemblyReference.cache
+D:\Projects\ChristmasTree\ChristmasTree\obj\Debug\ChristmasTree.exe
+D:\Projects\ChristmasTree\ChristmasTree\obj\Debug\ChristmasTree.pdb
